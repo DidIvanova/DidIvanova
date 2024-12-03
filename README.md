@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @DidIvanova
-- 👀 I’m interested in Web Evelopment
-- 🌱 I’m currently learning web technologies and seeking for a job
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @DidIvanova
+👀 I’m passionate about Web Development, crafting modern, responsive, and dynamic websites.
+🌱 I’m currently learning front-end and back-end technologies like React, Node.js, and database management to expand my skill set.
+💼 I’m actively seeking a full-time or part-time Web Developer position where I can contribute and grow professionally.
+💞️ I’m open to collaborating on team projects or impactful web solutions that enhance user experience.
+📫 Reach out to me via diana.ivanova.1991@abv.bg or connect on LinkedIn.
+😄 Pronouns: She/Her
+⚡ Fun fact: When I’m not coding, I love exploring UX/UI trends and binge-watching tech tutorials!
 
 <!---
 DidIvanova/DidIvanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
