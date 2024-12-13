@@ -10,8 +10,6 @@
 
 📫 Reach out to me via diana.ivanova.1991@abv.bg or connect on [LinkedIn](https://www.linkedin.com/in/diana-ivanova-b9086490/).
 
-😄 Pronouns: She/Her
-
 ⚡ Fun fact: When I’m not coding, I love exploring UX/UI trends and binge-watching tech tutorials!
 
 <!---
